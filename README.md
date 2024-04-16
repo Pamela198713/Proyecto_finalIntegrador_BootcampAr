@@ -1,2 +1,2 @@
-# Proyecto_finalIntegrador_BootcampAr
+# Proyecto_final_Integrador_BootcampAr
 Actividad final de tecnicatura web y mobile
